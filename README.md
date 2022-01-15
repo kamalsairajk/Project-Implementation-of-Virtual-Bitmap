@@ -5,7 +5,6 @@ Project Implementation of Virtual Bitmap
 
 By,
 Kamal Sai Raj Kuncha
-UFID: 48548114
 
 About the code:
 The source code includes a mainrun.java file which has classes mainrun which basically runs the file,
